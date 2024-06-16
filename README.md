@@ -71,3 +71,19 @@ The following example illustrates the representation in format in JSON of a list
     }
 
 ]
+
+**Requirements**
+
+The following Python modules are required to run the tool. These dependencies are listed in the requirements.txt file:
+
+- asyncore
+- contextvars
+- os
+- json
+- copy
+- re
+- tkinter
+- To install these dependencies, run:
+
+_bash_
+pip install -r requirements.txt
