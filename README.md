@@ -87,3 +87,5 @@ The following Python modules are required to run the tool. These dependencies ar
 
 _bash_
 pip install -r requirements.txt
+
+_Final Grade_ : 20/20
