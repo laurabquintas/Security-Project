@@ -7,7 +7,7 @@ import copy
 from re import S
 from tkinter import N
 
-#classes definitions: all hidden atrib  uttes 
+#classes definitions: all hidden atributtes 
 
 #Pattern
 class Pattern:
